@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local application data and exports
+*.db
+*.sqlite
+*.sqlite3
+*.db-wal
+*.db-shm
+*.xlsx
+*.xls
+*.csv
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
